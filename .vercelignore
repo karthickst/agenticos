@@ -1,0 +1,13 @@
+backend/
+logs/
+*.log
+.env
+.env.*
+!.env.example
+.git/
+*.md
+!README.md
+scripts/
+docker-compose.yml
+Dockerfile
+.dockerignore
