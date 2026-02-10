@@ -52,3 +52,5 @@ node_modules/
 
 # Test coverage
 coverage/
+*.pyc
+__pycache__/
